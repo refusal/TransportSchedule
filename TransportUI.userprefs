@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="TransportUI\TransportUI.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TransportUI\MainActivity.cs">
+    <Files>
+      <File FileName="TransportUI\MainActivity.cs" Line="43" Column="1" />
+      <File FileName="TransportUI\Schedule.cs" Line="41" Column="21" />
+      <File FileName="TransportUI\BaseLayout.cs" Line="15" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TransportUI AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

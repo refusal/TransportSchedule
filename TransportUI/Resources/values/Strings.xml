@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">TransportUI</string>
+	<string name="openDrawer">Drawer Open</string>
+	<string name="closeDrawer">Drawer Close</string>
+	<string-array name="screen_array">
+		<item>Screen 1</item>
+		<item>Screen 2</item>
+		<item>Screen 3</item>
+	</string-array>
+	<string name="text_activity1">Это первое Activity</string>
+<string name="text_activity2">Это второе Activity</string>
+</resources>
