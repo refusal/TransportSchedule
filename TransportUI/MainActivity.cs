@@ -27,6 +27,9 @@ namespace TransportUI
 		private List<string> mLeftDataSet;
 		private int lastSelectedSection = -1;
 
+//		private List<string> mTransportItems;
+//		private ListView mTransportListView;
+//
 		//ublic override void OnItemClick(AdapterView parent, View view, int position, long id){
 			
 
@@ -50,17 +53,24 @@ namespace TransportUI
 			SetSupportActionBar(mToolbar);
 
 
-			//Set fragment
+			//Set fragment map
 			var trans = SupportFragmentManager.BeginTransaction();
 			trans.Add(Resource.Id.fragmentContainer, new Fragment1(), "Fragment1");
 			trans.Commit ();
 
-
+			//set the adapter for the left sliding menu
 			mLeftDataSet = new List<string> ();
 			mLeftDataSet.Add ("Избранное");
 			mLeftDataSet.Add ("Расписание");
 			mLeftAdapter = new ArrayAdapter<string> (this, Android.Resource.Layout.SimpleListItem1,mLeftDataSet);
 			mLeftDrawer.Adapter = mLeftAdapter;
+
+			//set adapter for layout with transport list
+//			mTransportItems = new List<string> ();
+//			mTransportItems.Add ("BUS 23");
+//			mTransportItems.Add ("Bus 40");
+			//TransportAdapterClass trAdapter = new TransportAdapterClass (this, mTransportItems);
+			//mTransportListView.Adapter = trAdapter;
 
 			//////////NEWNEWNENW
 //			mLeftDataSet = new List<string> ();

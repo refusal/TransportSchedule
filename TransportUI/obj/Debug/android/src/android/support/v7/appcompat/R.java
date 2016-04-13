@@ -1592,8 +1592,7 @@ containing a value of this type.
         public static int abc_textfield_search_material=0x7f020043;
         public static int activated_background=0x7f020044;
         public static int ic_android_black_18dp=0x7f020045;
-        public static int monoandroidsplash=0x7f020046;
-        public static int notification_template_icon_bg=0x7f020047;
+        public static int notification_template_icon_bg=0x7f020046;
     }
     public static final class id {
         public static int action0=0x7f0c0055;
@@ -1656,7 +1655,8 @@ containing a value of this type.
         public static int progress_horizontal=0x7f0c0006;
         public static int pullUpFragmentCnt=0x7f0c0051;
         public static int radio=0x7f0c003b;
-        public static int schedule_menu=0x7f0c0065;
+        public static int scheduleFrameLayout=0x7f0c0065;
+        public static int schedule_menu=0x7f0c006a;
         public static int screen=0x7f0c0014;
         public static int scrollIndicatorDown=0x7f0c0035;
         public static int scrollIndicatorUp=0x7f0c0032;
@@ -1683,17 +1683,21 @@ containing a value of this type.
         public static int src_over=0x7f0c0017;
         public static int status_bar_latest_event_content=0x7f0c0057;
         public static int submit_area=0x7f0c004c;
+        public static int tabFragment1=0x7f0c0067;
         public static int tabMode=0x7f0c000b;
         public static int text=0x7f0c005f;
         public static int text2=0x7f0c005d;
         public static int textSpacerNoButtons=0x7f0c0034;
-        public static int textView1=0x7f0c0062;
-        public static int textView2=0x7f0c0063;
+        public static int textView1=0x7f0c0066;
+        public static int textView2=0x7f0c0068;
         public static int time=0x7f0c005b;
         public static int title=0x7f0c002a;
         public static int title_template=0x7f0c002f;
-        public static int toolbar=0x7f0c0064;
+        public static int toolbar=0x7f0c0069;
         public static int topPanel=0x7f0c002e;
+        public static int transNumber=0x7f0c0064;
+        public static int transStop=0x7f0c0063;
+        public static int transWayName=0x7f0c0062;
         public static int up=0x7f0c0008;
         public static int useLogo=0x7f0c0012;
         public static int withText=0x7f0c001f;
@@ -1755,6 +1759,7 @@ containing a value of this type.
         public static int tabfragment1=0x7f04002d;
         public static int tabfragment2=0x7f04002e;
         public static int toolbar=0x7f04002f;
+        public static int transportlistview=0x7f040030;
     }
     public static final class menu {
         public static int action_menu=0x7f0e0000;
@@ -1933,7 +1938,6 @@ containing a value of this type.
         public static int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f090072;
         public static int Base_Widget_AppCompat_Toolbar=0x7f0900a8;
         public static int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f090073;
-        public static int Mono_Android_Theme_Splash=0x7f090131;
         public static int MyDrawerArrowStyle=0x7f090130;
         public static int MyTheme=0x7f09012f;
         public static int Platform_AppCompat=0x7f090010;

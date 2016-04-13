@@ -4,8 +4,6 @@ F:\AndroidProjects\TransportUI\TransportUI\TransportUI\bin\Debug\com.transportui
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\bin\Debug\com.transportui.transportui-Signed.apk
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\bin\Debug\Xamarin.Android.Support.v4.dll
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\drawable\monoandroidsplash.png
-F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\values\styles.xml
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\TransportUI.dll
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\TransportUI.pdb
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\android\bin\com.transportui.transportui.apk
@@ -16,6 +14,7 @@ F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\mipmap-mdpi
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\mipmap-xhdpi\icon.png
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\mipmap-xxhdpi\icon.png
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\mipmap-xxxhdpi\icon.png
+F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\values\styles.xml
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\layout\toolbar.xml
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\layout\schedule.xml
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\menu\action_menu.xml
@@ -30,6 +29,7 @@ F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\layout\frag
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\layout\pullupfragment.xml
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\layout\tabfragment1.xml
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\layout\tabfragment2.xml
+F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\res\layout\transportlistview.xml
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\R.cs.flag
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\uploadflags.txt
 F:\AndroidProjects\TransportUI\TransportUI\TransportUI\obj\Debug\TransportUI.dll.mdb

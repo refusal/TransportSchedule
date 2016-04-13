@@ -1430,10 +1430,7 @@ namespace TransportUI
 			public const int ic_android_black_18dp = 2130837573;
 			
 			// aapt resource value: 0x7f020046
-			public const int monoandroidsplash = 2130837574;
-			
-			// aapt resource value: 0x7f020047
-			public const int notification_template_icon_bg = 2130837575;
+			public const int notification_template_icon_bg = 2130837574;
 			
 			static Drawable()
 			{
@@ -1629,7 +1626,10 @@ namespace TransportUI
 			public const int radio = 2131492923;
 			
 			// aapt resource value: 0x7f0c0065
-			public const int schedule_menu = 2131492965;
+			public const int scheduleFrameLayout = 2131492965;
+			
+			// aapt resource value: 0x7f0c006a
+			public const int schedule_menu = 2131492970;
 			
 			// aapt resource value: 0x7f0c0014
 			public const int screen = 2131492884;
@@ -1709,6 +1709,9 @@ namespace TransportUI
 			// aapt resource value: 0x7f0c004c
 			public const int submit_area = 2131492940;
 			
+			// aapt resource value: 0x7f0c0067
+			public const int tabFragment1 = 2131492967;
+			
 			// aapt resource value: 0x7f0c000b
 			public const int tabMode = 2131492875;
 			
@@ -1721,11 +1724,11 @@ namespace TransportUI
 			// aapt resource value: 0x7f0c0034
 			public const int textSpacerNoButtons = 2131492916;
 			
-			// aapt resource value: 0x7f0c0062
-			public const int textView1 = 2131492962;
+			// aapt resource value: 0x7f0c0066
+			public const int textView1 = 2131492966;
 			
-			// aapt resource value: 0x7f0c0063
-			public const int textView2 = 2131492963;
+			// aapt resource value: 0x7f0c0068
+			public const int textView2 = 2131492968;
 			
 			// aapt resource value: 0x7f0c005b
 			public const int time = 2131492955;
@@ -1736,11 +1739,20 @@ namespace TransportUI
 			// aapt resource value: 0x7f0c002f
 			public const int title_template = 2131492911;
 			
-			// aapt resource value: 0x7f0c0064
-			public const int toolbar = 2131492964;
+			// aapt resource value: 0x7f0c0069
+			public const int toolbar = 2131492969;
 			
 			// aapt resource value: 0x7f0c002e
 			public const int topPanel = 2131492910;
+			
+			// aapt resource value: 0x7f0c0064
+			public const int transNumber = 2131492964;
+			
+			// aapt resource value: 0x7f0c0063
+			public const int transStop = 2131492963;
+			
+			// aapt resource value: 0x7f0c0062
+			public const int transWayName = 2131492962;
 			
 			// aapt resource value: 0x7f0c0008
 			public const int up = 2131492872;
@@ -1938,6 +1950,9 @@ namespace TransportUI
 			
 			// aapt resource value: 0x7f04002f
 			public const int Toolbar = 2130968623;
+			
+			// aapt resource value: 0x7f040030
+			public const int TransportListView = 2130968624;
 			
 			static Layout()
 			{
@@ -2500,9 +2515,6 @@ namespace TransportUI
 			
 			// aapt resource value: 0x7f090073
 			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131296371;
-			
-			// aapt resource value: 0x7f090131
-			public const int Mono_Android_Theme_Splash = 2131296561;
 			
 			// aapt resource value: 0x7f090130
 			public const int MyDrawerArrowStyle = 2131296560;

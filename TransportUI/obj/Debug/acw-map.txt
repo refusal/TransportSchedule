@@ -38,6 +38,14 @@ TransportUI.TabFragment2, TransportUI;md56fe165adc7f244cc9fb870cc9ca73af2.TabFra
 TransportUI.TabFragment2, TransportUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56fe165adc7f244cc9fb870cc9ca73af2.TabFragment2
 TransportUI.TabFragment2;md56fe165adc7f244cc9fb870cc9ca73af2.TabFragment2
 transportui.TabFragment2;md56fe165adc7f244cc9fb870cc9ca73af2.TabFragment2
+TransportUI.TransportAdapterClass, TransportUI;md56fe165adc7f244cc9fb870cc9ca73af2.TransportAdapterClass
+TransportUI.TransportAdapterClass, TransportUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56fe165adc7f244cc9fb870cc9ca73af2.TransportAdapterClass
+TransportUI.TransportAdapterClass;md56fe165adc7f244cc9fb870cc9ca73af2.TransportAdapterClass
+transportui.TransportAdapterClass;md56fe165adc7f244cc9fb870cc9ca73af2.TransportAdapterClass
+TransportUI.ListViewTest, TransportUI;md56fe165adc7f244cc9fb870cc9ca73af2.ListViewTest
+TransportUI.ListViewTest, TransportUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56fe165adc7f244cc9fb870cc9ca73af2.ListViewTest
+TransportUI.ListViewTest;md56fe165adc7f244cc9fb870cc9ca73af2.ListViewTest
+transportui.ListViewTest;md56fe165adc7f244cc9fb870cc9ca73af2.ListViewTest
 Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager+IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor

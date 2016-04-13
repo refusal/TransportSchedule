@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="TransportUI\TransportUI.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TransportUI\Schedule.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="TransportUI\Schedule.cs" Line="28" Column="33" />
-      <File FileName="TransportUI\Fragments\Fragment1.cs" Line="50" Column="4" />
-      <File FileName="TransportUI\MainActivity.cs" Line="106" Column="4" />
+      <File FileName="TransportUI\MainActivity.cs" Line="22" Column="27" />
+      <File FileName="TransportUI\Schedule.cs" Line="16" Column="22" />
+      <File FileName="TransportUI\Fragments\TabFragment1.cs" Line="21" Column="69" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

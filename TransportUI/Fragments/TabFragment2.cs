@@ -16,18 +16,11 @@ namespace TransportUI
 {
 	public class TabFragment2 : Fragment
 	{
-		public override void OnCreate (Bundle savedInstanceState)
-		{
-			base.OnCreate (savedInstanceState);
-
-			// Create your fragment here
-		}
 
 		public override View OnCreateView (LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
 		{
-			View view = inflater.Inflate(Resource.Layout.TabFragment2, container, false);
-
-			return base.OnCreateView (inflater, container, savedInstanceState);
+			View view = inflater.Inflate(Resource.Layout.TabFragment2, null);
+			return view;
 		}
 	}
 }
